@@ -32,7 +32,7 @@ For your security, please **respect your own privacy** and *don't* fill your per
 
 For now, OpShrts and $shrt are the only assets to focus on.
 
-New drawing proposals will happen on twitter, stay tuned !
+New drawing proposals will happen on Twitter, stay tuned !
 
 ### **$shrt** is the native BRC20 of the OpShrt ecosystem.  
 But it is not even us who deployed it lol
