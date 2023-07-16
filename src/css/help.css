@@ -1,0 +1,48 @@
+body {
+    background: #282828;
+    font-family: Consolas, monospace;
+    color: #fff;
+    margin: 0;
+}
+
+.help {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+}
+
+h1 {
+    font-size: 3vh;
+    color: #fc0061;
+}
+
+.help-content {
+    margin-left: 5vh;
+    font-size: 1.5vh;
+    max-width: 30vh;
+}
+
+a {
+    color: #208c00;
+    font-size: 2.7vh;
+}
+
+button {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.goto {
+    color: #2682f1;
+}
+
+.return {
+    color: #fc0061;
+}

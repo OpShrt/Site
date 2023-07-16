@@ -1,0 +1,47 @@
+body {
+    background: #282828;
+    font-family: Consolas, monospace;
+    color: #fff;
+    margin: 0;
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+}
+
+.choice {
+    margin: 5vh;
+    font-size: 7vh;
+}
+
+.separator {
+    width: 60vh;
+    border: none;
+    border-top: 4px solid #fc0061;
+}
+
+a {
+    color: #ffffff;
+}
+
+button {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+/*#genesis {*/
+/*    color: #b0caff;*/
+/*}*/
+
+/*#wtf {*/
+/*    color: #fc0061;*/
+/*}*/
