@@ -1,5 +1,5 @@
 body {
-    background: #282828;
+    background: black;
     font-family: Consolas, monospace;
     color: #fff;
     margin: 0;
@@ -21,7 +21,7 @@ body {
 .separator {
     width: 60vh;
     border: none;
-    border-top: 4px solid #fc0061;
+    border-top: 4px solid #208c00;
 }
 
 a {

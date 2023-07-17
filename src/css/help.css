@@ -1,5 +1,5 @@
 body {
-    background: #282828;
+    background: black;
     font-family: Consolas, monospace;
     color: #fff;
     margin: 0;
@@ -40,7 +40,7 @@ button {
 }
 
 .goto {
-    color: #2682f1;
+    color: #0f55a9;
 }
 
 .return {
